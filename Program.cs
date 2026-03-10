@@ -6,6 +6,6 @@ double average = numbers.Average();
 double max = numbers.Max();
 double min = numbers.Min();
 
-Console.WriteLine($"Average value: {average}");
-Console.WriteLine($"Maximum value: {max}");
-Console.WriteLine($"Minimum value: {min}");
+Console.WriteLine($"Average result: {average}");
+Console.WriteLine($"Maximum result: {max}");
+Console.WriteLine($"Minimum result: {min}");
