@@ -34,3 +34,5 @@ This repository was created as part of the Git tutorial.
 
 \- Conflict resolution
 
+\- Rebase (feature-rebase rebased onto main)
+
