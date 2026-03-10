@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-double[] numbers = { 5, 10, 15, 20 };
+double[] numbers = { 3, 6, 9, 12 };
 
 double average = numbers.Average();
 double max = numbers.Max();
